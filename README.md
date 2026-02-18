@@ -16,7 +16,7 @@ My first assignment on Linux basics of DevOps course.
 ## Task 2.1: Creating and Renaming Files
 **Commands used:** `mkdir test_dir`, `touch example.txt`, `mv example.txt renamed_example.txt`
 
-![Task 2.1](./screenshots/Task2.1.png)
+![Task 2.1](./screenshots/Tas2.1.png)
 
 ## Task 3: Viewing File Contents
 **Commands used:** `cat /etc/passwd`, `head -n 5 /etc/passwd`, `tail -n 5 /etc/passwd`
